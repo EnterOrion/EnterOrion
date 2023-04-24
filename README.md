@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello and welcome! 😀
+
+➡ My name is Orion and I'm a full stack web developer with a focus on the MERN stack. I also like to use Firebase for the backend as well. Currently, I'm working on a social media application that connects with Spotify. <br/>
+
+🔥 I'm a determined programmer that strives to make websites that feature a clean design, responsiveness, and that are accessible for all.   <br/>
+
+💻 The more that I learn about programming, the greater appreciation I have for it. I love the feeling I get from building something. Every day, it teaches me how to be a more organized and better thinker. 
+
 
 <!--
 **EnterOrion/EnterOrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
