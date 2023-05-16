@@ -1,4 +1,4 @@
-### Hello and welcome! 😀
+### Hello and welcome! 😊
 
 ➡ My name is Orion and I'm a full stack web developer with a focus on the MERN stack. I also have experience using Firebase for the backend. Currently, I'm working on a social media application that connects with Spotify. <br/>
 
